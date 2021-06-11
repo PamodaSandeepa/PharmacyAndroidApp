@@ -1,4 +1,4 @@
-# parmacy
+# pharmacy
 
 A new Flutter application.
 
